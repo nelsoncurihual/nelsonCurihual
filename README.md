@@ -1,6 +1,6 @@
 <h1 align="center">Hola👋, Me llamo Nelson Curihual</h1>
 
-<h3 align="center">Soy un entusiasta del desarrollo Frontend con interés de involucrarme en Backend</h3>
+<h3 align="center">Ingeniero Civil Informático con formación en la Universidad de la Frontera, con experiencia en desarrollo Frontend y desarrollo de aplicaciones móviles.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Angular, Node y Flutter**
 
