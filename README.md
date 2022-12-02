@@ -1,16 +1,15 @@
 <h1 align="center">Hola👋, Me llamo Nelson Curihual</h1>
 
-<h3 align="center">Soy un entusiasta de el desarrollo Frontend con interés de involucrarme en Backend</h3>
+<h3 align="center">Soy un entusiasta del desarrollo Frontend con interés de involucrarme en Backend</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Angular, Node y Flutter**
 
 - 💬 Puedes preguntarme sobre **HTML, CSS, SCSS, y un poco de JavaScript**
 
-### Conecta conmigo por LinkedIn:
-<a href="https://linkedin.com/in/nelsoncurihual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelsoncurihual" height="30" width="40" /></a>
+### Conecta conmigo por LinkedIn <a href="https://linkedin.com/in/nelsoncurihual" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelsoncurihual" height="30" width="40" /></a>
 </p>
 
-## 
+##
 ### Habilidades
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
